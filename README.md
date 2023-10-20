@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Federico Morgante</h1>
 <h3 align="center">A passionate Full-Stack developer from Italy</h3>
 
-- 🌱 I’m currently learning **React and Python**
 
 - 📫 How to reach me **federicomorgante88@gmail.com**
 
